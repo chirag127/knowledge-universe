@@ -4,6 +4,12 @@ This file is reserved for your custom insights, quotes, and lessons that you do 
 
 ---
 
+## Preface
+
+*Add your personal study notes and core insights here...*
+
+---
+
 ## Chapter 1: Learning Is Misunderstood
 
 *Add your personal study notes and core insights here...*
