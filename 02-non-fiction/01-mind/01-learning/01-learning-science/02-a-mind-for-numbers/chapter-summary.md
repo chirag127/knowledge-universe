@@ -207,7 +207,7 @@
 - **Eat the frog**: Place the most important or most aversive task first in the day, before any checking of messages, social media, or email. This prevents decision fatigue from depleting the willpower available for the hardest work.
 - **Finish time**: Set a specific time each day when you stop studying. Knowing there is a definite end point makes the process feel bounded rather than endless — reducing resistance to beginning.
 - **Journaling progress**: Brief nightly notes on what went well and what to improve create a feedback loop that accelerates habit refinement.
-- The chapter reiterates the master principle: **focus on process, not product**. The system (daily habit architecture) is more powerful than motivation.
+- The chapter reiterates the master principle: **focus on process, not product**. The system (daily habit architecture) is more powerful than willpower.
 
 ### Key Concepts
 - **Weekly/Daily Planning**: Structured to-do lists written the night before that leverage overnight diffuse processing.
@@ -398,7 +398,7 @@
 - **Pre-Exam Journaling**: Writing negative thoughts before an exam to clear them from working memory.
 
 ### Core Takeaway
-> *Exams reward technique as much as knowledge. Hard-Start-Jump-to-Easy is counterintuitive and consistently effective. Practice it deliberately on low-stakes tests so it becomes automatic by the time the stakes are high.*
+> *Exams reward preparation, technique, and composure in equal measure. The Hard-Start technique and deliberate stress management are learnable skills that can significantly improve performance regardless of how well you know the material.*
 
 ---
 
@@ -428,20 +428,20 @@
 | Chapter | Title | Core Tool / Concept |
 |---|---|---|
 | 1 | Open the Door | Neuroplasticity; Math Myth; Identity |
-| 2 | Easy Does It | Focused Mode + Diffuse Mode; Einstellung Effect |
-| 3 | Learning Is Creating | Spaced Practice; Sleep Consolidation; Productive Failure |
-| 4 | Chunking and Avoiding Illusions | Chunking (3 Steps); Illusion of Competence; Equation Whisperer |
-| 5 | Preventing Procrastination | Zombie Habit Loop; Process vs. Product; Pomodoro |
-| 6 | Zombies Everywhere | Cue Identification; Implementation Intentions; Planning |
-| 7 | Chunking versus Choking | Choking; Automated Chunks; Interleaving; Deliberate Practice |
+| 2 | Easy Does It — Why Trying Too Hard Can Sometimes Be Part of the Problem | Focused Mode + Diffuse Mode; Einstellung Effect |
+| 3 | Learning Is Creating — Lessons from Thomas Edison's Frying Pan | Spaced Practice; Sleep Consolidation; Productive Failure |
+| 4 | Chunking and Avoiding Illusions — The Keys to Becoming an "Equation Whisperer" | Chunking (3 Steps); Illusion of Competence; Equation Whisperer |
+| 5 | Preventing Procrastination — Enlisting Your Habits ("Zombies") as Helpers | Zombie Habit Loop; Process vs. Product; Pomodoro |
+| 6 | Zombies Everywhere — Digging Deeper to Understand the Habit of Procrastination | Cue Identification; Implementation Intentions; Planning |
+| 7 | Chunking versus Choking — How to Increase Your Expertise and Reduce Anxiety | Choking; Automated Chunks; Interleaving; Deliberate Practice |
 | 8 | Tools, Tips, and Tricks | Recall Practice; SRS; Exercise and BDNF; 5-Minute Rule |
 | 9 | Procrastination Zombie Wrap-Up | Daily System; Eating the Frog; Finish Time |
 | 10 | Enhancing Your Memory | Memory Palace; Visualization; Spaced Repetition |
 | 11 | More Memory Tips | Mnemonics; Motor Memory; Physical Metaphor; Social Learning |
 | 12 | Learning to Appreciate Your Talent | Slow vs. Fast Thinkers; Technique Over Talent |
-| 13 | Sculpting Your Brain | Neuroplasticity; Myelination; Cross-Domain Transfer |
-| 14 | Developing the Mind's Eye | Equation Personalization; Boundary Conditions; Breaking Einstellung |
+| 13 | Sculpting Your Brain | Santiago Ramón y Cajal; Myelination; Cross-Domain Transfer |
+| 14 | Developing the Mind's Eye Through Equation Poems | Equation Personalization; Boundary Conditions; Breaking Einstellung |
 | 15 | Renaissance Learning | Cross-Domain Breadth; Self-Directed Learning; Persistence |
-| 16 | Avoiding Overconfidence | Overconfidence Bias; External Calibration; Study Groups |
+| 16 | Avoiding Overconfidence — The Power of Teamwork | Overconfidence Bias; External Calibration; Study Groups |
 | 17 | Test Taking | Hard-Start-Jump-to-Easy; Anxiety Reframing; Belly Breathing |
 | 18 | Unlock Your Potential | Lifelong Practice; Compound Return; Identity Update |

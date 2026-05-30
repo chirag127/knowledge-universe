@@ -4,157 +4,229 @@ This file is reserved for your custom insights, quotes, and lessons that you do 
 
 ---
 
-## Part I: Introduction and Perspectives
+## An Introduction to The Cambridge Handbook of Expertise and Expert Performance: Its Development, Organization, and Content
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Chapter 1: Introduction and History of Expertise
+## Two Approaches to the Study of Experts' Characteristics
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Chapter 2: Sociological and Philosophical Perspectives on Expertise
+## Expertise, Talent, and Social Encouragement
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Chapter 3: The Evolution of Expertise
+## Studies of Expertise from Psychological Perspectives
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Chapter 4: Animal Expertise and Training
+## Overview of Approaches to the Study of Expertise
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Part II: Overview of Approaches to the Study of Expertise
+## Expert Systems: A Perspective from Computer Science
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Chapter 5: Cognitive Psychology Approaches
+## Professionalization, Scientific Expertise, and Elitism
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Chapter 6: Educational Models and Expertise DevelopmentChapter 7: Computer Science Perspectives and Expert Systems
+## Observation of Work Practices in Natural Settings
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Chapter 8: Social and Professional Perspectives on Expertise
+## Protocol Analysis and Expert Thought
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Part III: Methods for Studying the Structure of Expertise
+## Assessing the Knowledge of Experts
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Chapter 9: Knowledge Elicitation and Expert Perception
+## The Use of Knowledge Elicitation Techniques
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Chapter 10: Protocol Analysis and capturing Expert Thought Processes
+## Retrospective Interview Methods
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Chapter 11: Psychometric Approaches to Expertise
+## Daily Life of Experts: Diaries
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Chapter 12: Studies of Brain Activation and Neurostructural Changes in Experts
+## Longitudinal Studies of Expert Performance
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Part IV: Methods for Studying the Acquisition and Maintenance of Expertise
+## Measuring Expert Performance
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Chapter 13: Concurrent, Retrospective, and Longitudinal Practice Activity Data
+## Medical Expertise
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Chapter 14: Historiometric Methods and Case Studies of Extraordinary Performers
+## Clinical Psychology
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Part V: Domains of Expertise
+## Expertise in Law
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Chapter 15: Expertise in Professional Domains: Medicine, Design, Writing, and Education
+## Expertise in Software Design
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Chapter 16: Expertise in Arts, Sports, Chess, and Physical Performance
+## Military Expertise
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Part VI: Generalizable Mechanisms Mediating Types of Expertise
+## Engineering and Design
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Chapter 17: Long-Term Working Memory and Superior Anticipation in Experts
+## Business/Management Expertise
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Chapter 18: Situation Awareness and Cognitive Control
+## Teaching Expertise
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Part VII: General Issues and Theoretical Frameworks
+## K-12 Education
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Chapter 19: Theoretical Frameworks for Deliberate Practice
+## Expertise in Writing
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Chapter 20: Tacit Knowledge, Aging, and Self-Regulated Learning
+## Music
+
+*Add your personal study notes and core insights here...*
+
+---
+
+## Sports
+
+*Add your personal study notes and core insights here...*
+
+---
+
+## Acting, Ballet, and Dance
+
+*Add your personal study notes and core insights here...*
+
+---
+
+## Games (Chess/Bridge)
+
+*Add your personal study notes and core insights here...*
+
+---
+
+## Expertise in Science
+
+*Add your personal study notes and core insights here...*
+
+---
+
+## General and Practical Intelligence
+
+*Add your personal study notes and core insights here...*
+
+---
+
+## Brain Activity in Experts
+
+*Add your personal study notes and core insights here...*
+
+---
+
+## Self-Regulated Learning
+
+*Add your personal study notes and core insights here...*
+
+---
+
+## Aging and Expertise
+
+*Add your personal study notes and core insights here...*
+
+---
+
+## Superior Anticipation
+
+*Add your personal study notes and core insights here...*
+
+---
+
+## Superior Working Memory in Experts
+
+*Add your personal study notes and core insights here...*
+
+---
+
+## Expertise and Situation Awareness
+
+*Add your personal study notes and core insights here...*
+
+---
+
+## The Differential Influence of Experience, Practice, and Deliberate Practice on the Development of Superior Individual Performance of Experts
 
 *Add your personal study notes and core insights here...*
 

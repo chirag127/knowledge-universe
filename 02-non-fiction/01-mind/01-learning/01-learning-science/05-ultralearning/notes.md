@@ -4,85 +4,85 @@ This file is reserved for your custom insights, quotes, and lessons that you do 
 
 ---
 
-## Can You Get an MIT Education Without Going to MIT?
+## Chapter 1: Can You Get an MIT Education Without Going to MIT?
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Why Ultralearning Matters
+## Chapter 2: Why Ultralearning Matters
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## How to Become an Ultralearner
+## Chapter 3: How to Become an Ultralearner
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Principle 1—Metalearning: First Draw a Map
+## Chapter 4: Principle 1—Metalearning: First Draw a Map
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Principle 2—Focus: Sharpen Your Knife
+## Chapter 5: Principle 2—Focus: Sharpen Your Knife
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Principle 3—Directness: Go Straight Ahead
+## Chapter 6: Principle 3—Directness: Go Straight Ahead
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Principle 4—Drill: Attack Your Weakest Point
+## Chapter 7: Principle 4—Drill: Attack Your Weakest Point
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Principle 5—Retrieval: Test to Learn
+## Chapter 8: Principle 5—Retrieval: Test to Learn
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Principle 6—Feedback: Don't Dodge the Punches
+## Chapter 9: Principle 6—Feedback: Don't Dodge the Punches
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Principle 7—Retention: Don't Fill a Leaky Bucket
+## Chapter 10: Principle 7—Retention: Don't Fill a Leaky Bucket
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Principle 8—Intuition: Dig Deep Before Building Up
+## Chapter 11: Principle 8—Intuition: Dig Deep Before Building Up
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Principle 9—Experimentation: Explore Outside Your Comfort Zone
+## Chapter 12: Principle 9—Experimentation: Explore Outside Your Comfort Zone
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Your First Ultralearning Project
+## Chapter 13: Your First Ultralearning Project
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## An Unconventional Education
+## Chapter 14: An Unconventional Education
 
 *Add your personal study notes and core insights here...*
 

@@ -4,12 +4,6 @@ This file is reserved for your custom insights, quotes, and lessons that you do 
 
 ---
 
-## Part One: Evidence-Based Education and the Science of Learning
-
-*Add your personal study notes and core insights here...*
-
----
-
 ## Chapter 1: Communication Breakdown Between Science and Practice in Education
 
 *Add your personal study notes and core insights here...*
@@ -34,12 +28,6 @@ This file is reserved for your custom insights, quotes, and lessons that you do 
 
 ---
 
-## Part Two: Basics of Human Cognitive Processes
-
-*Add your personal study notes and core insights here...*
-
----
-
 ## Chapter 5: Perception
 
 *Add your personal study notes and core insights here...*
@@ -58,31 +46,19 @@ This file is reserved for your custom insights, quotes, and lessons that you do 
 
 ---
 
-## Part Three: Strategies for Effective Learning
-
-*Add your personal study notes and core insights here...*
-
----
-
 ## Chapter 8: Planning Learning: Spaced Practice and Interleaving
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Chapter 9: Development of Understanding: Elaboration and Concrete Examples
+## Chapter 9: Development of Understanding
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Chapter 10: Reinforcement of Learning: Dual Coding and Retrieval Practice
-
-*Add your personal study notes and core insights here...*
-
----
-
-## Part Four: Tips for Teachers, Students, and Parents
+## Chapter 10: Reinforcement of Learning
 
 *Add your personal study notes and core insights here...*
 
@@ -95,6 +71,12 @@ This file is reserved for your custom insights, quotes, and lessons that you do 
 ---
 
 ## Chapter 12: Tips for Students
+
+*Add your personal study notes and core insights here...*
+
+---
+
+## Chapter 13: Tips for Parents
 
 *Add your personal study notes and core insights here...*
 

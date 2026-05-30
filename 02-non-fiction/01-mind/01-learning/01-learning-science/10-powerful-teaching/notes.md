@@ -1,4 +1,4 @@
-# Study Notes: Powerful Teaching: Unleash the Science of Learning
+# Study Notes: Powerful Teaching
 
 This file is reserved for your custom insights, quotes, and lessons that you do not want to forget. The structure below mirrors the exact chapters of the book. Fill in the content under each heading as you progress.
 
@@ -59,6 +59,12 @@ This file is reserved for your custom insights, quotes, and lessons that you do 
 ---
 
 ## Chapter 9: Spark Conversations with Students About the Science of Learning
+
+*Add your personal study notes and core insights here...*
+
+---
+
+## Chapter 10: Spark Conversations with Parents About the Science of Learning
 
 *Add your personal study notes and core insights here...*
 

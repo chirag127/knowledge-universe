@@ -1,6 +1,6 @@
 # Learning How to Learn — Chapter-by-Chapter Summary
 
-> Each chapter is summarized with: the core question it answers, the key concepts introduced, and the single most important takeaway.
+> Each chapter is summarized with: the core question it answers, what the chapter covers, key concepts, and the single most important takeaway.
 
 ---
 
@@ -88,7 +88,7 @@
 - The only test of a brain-link is: **Close the book. Can you reproduce this on a blank page?**
 
 ### Core Takeaway
-> *Passive reading creates an illusion of competence. Actual mastery is only possible through active retrieval practice — forcing your brain to reconstruct the idea without any external cues.*
+> *Passive reading creates an illusion of competence. Active mastery is only possible through active retrieval practice — forcing your brain to reconstruct the idea without any external cues.*
 
 ---
 
@@ -124,7 +124,7 @@
 - **REM Sleep and Problem-Solving**: During REM sleep, the brain enters its most active diffuse-mode state. Novel connections between concepts are made that would not occur during focused waking study.
 
 ### Practical Rules
-- Study a topic → Sleep → The brain hardwires it overnight.
+- Study a topic → Sleep → The material is hardwired overnight.
 - Pulling an all-nighter = destroying the consolidation window. You may remember something for the next morning's exam, but it will not transfer to long-term memory.
 - **Napping**: Even a 20-minute nap (a "power nap") after intensive study can clear the working memory slate and trigger a mini-consolidation cycle.
 
@@ -208,7 +208,7 @@ Convert abstract concepts into vivid, impossible, animated mental images. The mo
 
 ---
 
-## Chapter 10: Learning with Clubs and Groups, Finding Your Mission
+## Chapter 10: Learning with Clubs and Groups, Finding Your Mission, and How Terry Nearly Burned Down the School
 
 **Core Question**: *How do social and collaborative learning accelerate brain-link formation?*
 
@@ -255,7 +255,7 @@ Convert abstract concepts into vivid, impossible, animated mental images. The mo
 
 ---
 
-## Chapter 12: Making Brain-Links — How Not to Learn from a Comic Book
+## Chapter 12: Making Brain-Links: How Not to Learn from a Comic Book
 
 **Core Question**: *Why does reading alone — even thoroughly — fail to build real knowledge?*
 
@@ -275,7 +275,7 @@ Convert abstract concepts into vivid, impossible, animated mental images. The mo
 
 ---
 
-## Chapter 13: Asking Yourself Important Questions — Should You Listen to Music While Studying?
+## Chapter 13: Asking Yourself Important Questions: Should You Listen to Music While You're Studying?
 
 **Core Question**: *What environmental conditions actually optimize learning?*
 
@@ -291,7 +291,7 @@ Convert abstract concepts into vivid, impossible, animated mental images. The mo
 
 ---
 
-## Chapter 14: Learning Surprises — Your Worst Traits Can Be Your Best Traits
+## Chapter 14: Learning Surprises: Pssst . . . Your Worst Traits Can Be Your Best Traits!
 
 **Core Question**: *How can personal weaknesses actually become learning advantages?*
 
@@ -306,60 +306,21 @@ Convert abstract concepts into vivid, impossible, animated mental images. The mo
 
 ---
 
-## Chapter 15: How to Do Well on Tests
-
-**Core Question**: *What is the optimal strategy for performing your best in an exam setting?*
-
-### What the Chapter Covers
-- Exam performance is a learnable skill separate from subject knowledge. Students who know the material but lack exam technique consistently underperform.
-
-### The Hard-Start, Jump-to-Easy Technique
-1. Spend 1–2 minutes reading the *hardest* problems — this loads them into your brain and primes the diffuse mode.
-2. Immediately move to the easy questions and solve them fully. This builds confidence and keeps your diffuse mode running on the hard problem in the background.
-3. Return to the hard problems later — often a solution has become clearer while your focused mode was elsewhere.
-
-### Managing Exam Anxiety
-- **Deep Belly Breathing**: Shallow chest breathing during panic floods the body with cortisol and impairs prefrontal cortex function. Controlled belly breathing (4 counts in, 4 hold, 6 out) reverses this within 90 seconds.
-- **Reframe Anxiety as Excitement**: Both states have identical physiological signatures (heart rate up, adrenaline released). Telling yourself "I am excited" rather than "I am scared" measurably improves performance.
-- **The Second Eye Review**: Before submitting, mentally step back and re-read your answers as if seeing them for the first time. Your focused mode during writing can miss errors that a fresh perspective catches.
-
-### Core Takeaway
-> *Exams reward preparation, technique, and composure in equal measure. The Hard-Start technique and deliberate stress management are learnable skills that can significantly improve performance regardless of how well you know the material.*
-
----
-
-## Chapter 16: Going from "Have To" to "Get To"
-
-**Core Question**: *How do you sustain the motivation to keep learning when it becomes difficult?*
-
-### What the Chapter Covers
-- The final chapter is a mindset and values reframe — the deepest, most durable form of learning motivation.
-- **The Language Shift**: Internally saying *"I have to study"* triggers resistance. *"I get to study"* triggers ownership and curiosity. This is not a superficial word game — it reflects a genuine difference in how you relate to the material.
-- **Learning as Privilege**: In historical context and globally, access to education and the freedom to spend time mastering difficult ideas is extraordinarily rare. Framing learning as a privilege rather than an obligation changes the emotional valence of every study session.
-- **The Compound Effect**: Every chapter of this book has been building toward a single truth: learning is a skill that improves with practice. The more brain-links you build, the easier it becomes to build more — because every new concept has more existing knowledge to attach to. You are not just learning facts; you are building a learning engine.
-
-### Core Takeaway
-> *The ultimate goal of this book is not to make school easier — it is to make learning something you actively *want* to do. When you understand how your brain works, studying stops being an obligation and becomes a fascinating experiment in deliberately rewiring yourself.*
-
----
-
 ## Full Chapter Summary Table
 
 | Chapter | Title | Core Tool / Concept |
 |---|---|---|
 | 1 | The Problem with Passion | Growth Mindset, Neuroplasticity |
-| 2 | Easy Does It | Focused Mode + Diffuse Mode |
-| 3 | I'll Do It Later, Honest! | Pomodoro Technique |
+| 2 | Easy Does It: Why Trying Too Hard Can Sometimes Be Part of the Problem | Focused Mode + Diffuse Mode |
+| 3 | I'll Do It Later, Honest! Using a Tomato to Beat Procrastination | Pomodoro Technique |
 | 4 | Brain-Links and Fun with Space Aliens | Chunking / Active Recall |
 | 5 | The Other Side of the Teacher's Desk | Handwritten Notes, 24hr Review |
-| 6 | Learning While You Sleep | Memory Consolidation, Sleep Cycles |
+| 6 | Learning While You Sleep: How to Wake Up Smarter | Memory Consolidation, Sleep Cycles |
 | 7 | School Bags, Lockers, and Your Attentional Octopus | Working Memory vs. Long-Term Memory |
 | 8 | Slick Tricks to Build Your Memory | Visualization, Memory Palace |
-| 9 | Why Brain-Links Are Important | Interleaving, Transfer Learning |
-| 10 | Learning with Clubs and Groups | Collaborative Retrieval Practice |
+| 9 | Why Brain-Links Are Important (and How Not to Back a Car into a Ditch) | Interleaving, Transfer Learning |
+| 10 | Learning with Clubs and Groups, Finding Your Mission, and How Terry Nearly Burned Down the School | Collaborative Retrieval Practice |
 | 11 | How to Pump Up Your Brain | Exercise (BDNF), Nutrition, Sleep |
-| 12 | Making Brain-Links | The 3R Method (Read, Recall, Review) |
-| 13 | Asking Yourself Important Questions | Study Environment Design |
-| 14 | Learning Surprises | Struggle as Strength, Imposter Syndrome |
-| 15 | How to Do Well on Tests | Hard-Start Technique, Stress Management |
-| 16 | Going from "Have To" to "Get To" | Learning as Privilege, Motivation |
+| 12 | Making Brain-Links: How Not to Learn from a Comic Book | The 3R Method (Read, Recall, Review) |
+| 13 | Asking Yourself Important Questions: Should You Listen to Music While You're Studying? | Study Environment Design |
+| 14 | Learning Surprises: Pssst . . . Your Worst Traits Can Be Your Best Traits! | Struggle as Strength, Imposter Syndrome |

@@ -1,16 +1,10 @@
-# Study Notes: Small Teaching: Everyday Lessons from the Science of Learning
+# Study Notes: Small Teaching
 
 This file is reserved for your custom insights, quotes, and lessons that you do not want to forget. The structure below mirrors the exact chapters of the book. Fill in the content under each heading as you progress.
 
 ---
 
 ## Introduction: Small Teaching
-
-*Add your personal study notes and core insights here...*
-
----
-
-## Part I: Knowledge
 
 *Add your personal study notes and core insights here...*
 
@@ -34,12 +28,6 @@ This file is reserved for your custom insights, quotes, and lessons that you do 
 
 ---
 
-## Part II: Understanding
-
-*Add your personal study notes and core insights here...*
-
----
-
 ## Chapter 4: Connecting
 
 *Add your personal study notes and core insights here...*
@@ -53,12 +41,6 @@ This file is reserved for your custom insights, quotes, and lessons that you do 
 ---
 
 ## Chapter 6: Explaining
-
-*Add your personal study notes and core insights here...*
-
----
-
-## Part III: Inspiration
 
 *Add your personal study notes and core insights here...*
 

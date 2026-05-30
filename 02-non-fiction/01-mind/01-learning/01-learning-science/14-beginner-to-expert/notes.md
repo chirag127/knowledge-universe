@@ -1,64 +1,70 @@
-# Study Notes: Novice to Expert: 6 Steps to Learn Anything, Increase Your Knowledge, and Master New Skills
+# Study Notes: Novice to Expert
 
 This file is reserved for your custom insights, quotes, and lessons that you do not want to forget. The structure below mirrors the exact chapters of the book. Fill in the content under each heading as you progress.
 
 ---
 
-## Introduction: What Do You Want To Learn?
+## Introduction: What Do You Want to Learn?
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Section 1: How Do You Master a Skill?
+## Chapter 1: Concept 1: Focus on Accelerated Learning
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Section 2: 3 Concepts for Mastering New Skills
+## Chapter 2: Concept 2: Practice Just-in-Time Learning
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Step 1: Identify Your Preferred Learning Style
+## Chapter 3: Concept 3: Know Your Level of Competence
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Step 2: Pick a Single Skill You Want to Master
+## Chapter 4: Step 1: Identify Your Preferred Learning Style
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Step 3: Find the Best Resources for This Information
+## Chapter 5: Step 2: Pick a Single Skill to Master
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Step 4: Take Action-Oriented Notes
+## Chapter 6: Step 3: Deconstruct the Skill & Find Resources
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Step 5: Create a Project Around This Skill
+## Chapter 7: Step 4: Take Action-Oriented Notes
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Step 6: Deliberately Practice This Skill Every Day
+## Chapter 8: Step 5: Create a Project Around the Skill
 
 *Add your personal study notes and core insights here...*
 
 ---
 
-## Conclusion: Build a Daily Routine of Mastery
+## Chapter 9: Step 6: Deliberately Practice the Skill Every Day
+
+*Add your personal study notes and core insights here...*
+
+---
+
+## Conclusion: Your Next Steps
 
 *Add your personal study notes and core insights here...*
 
